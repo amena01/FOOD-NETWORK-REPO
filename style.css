@@ -1,0 +1,72 @@
+.one{
+   color:rgb(52, 52, 206);
+   text-align: center;
+   font-size: 50px;
+}
+.two{
+   color:coral
+}
+section{
+   display: flex;
+}
+.half-width{
+   width: 50%;
+   padding-left: 2%;
+   padding-right: 2%;
+}
+.half-width img{
+width: 100%;
+height: 80%;
+}
+.link-button{
+   text-decoration: none;
+   background-color: rgb(108, 216, 216);
+   padding: 05px 20px;
+   border-radius: 10px;
+}
+section{
+   display: flex;
+   margin: 10%;
+}
+.main{
+   display: flex;
+   margin-right: 10%;
+}
+.title{
+   color:rgb(40, 155, 40)
+}
+.middle{
+   background-image: url(./images\ /shapes/7.png);
+}
+section{
+   height:auto
+}
+.half-width-3{
+   width: 300px;
+   height: 400px;
+   margin-left: 5%;
+   margin-right: 5%;
+   padding: 15px;
+   border-radius: 15px;
+   box-shadow: 10px 10px 40px rgb(117, 105, 105);
+}
+.half-width-3 img{
+   width: 150%;
+   height: auto;
+}
+.color-1{
+   color:tomato
+}
+.color-2{
+   color:rgb(185, 153, 185)
+}
+footer{
+   background-color: black;
+   text-align: center;
+   padding: 20px 0 50px;
+}
+footer h4{
+   color:white;
+}
+
+
